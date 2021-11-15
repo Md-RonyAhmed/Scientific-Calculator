@@ -1,1 +1,1 @@
-This file is about git. This is git.
+This another text.
